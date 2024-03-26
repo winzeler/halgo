@@ -1,7 +1,6 @@
 package halgo_test
 
 import (
-	"."
 	"encoding/json"
 	"fmt"
 	"net/http"
